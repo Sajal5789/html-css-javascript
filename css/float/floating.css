@@ -1,0 +1,24 @@
+.page{
+  overflow: auto;
+  text-align:justify;
+}
+p{
+  text-align: align ;
+}
+
+.batman{
+  margin: auto;
+float:left;
+text-align: align;
+  height: 300px;
+  width: 400px;
+  margin: 20px;
+}
+.batman2{
+  margin: 20px;
+  text-align: ;
+  height: 300px;
+  width: 400px;
+  float: right;
+  margin-top: 5%;
+}

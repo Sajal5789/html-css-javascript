@@ -1,0 +1,33 @@
+.class {
+  border: greenyellow 5px solid;
+  border-radius: 5% 50% 50% 5%;
+  height: 100px;
+  width: 290px;
+  text-align: center;
+}
+.sanju {
+  border: yellow 5px solid;
+  border-radius: 0% 70% 0% 70%;
+  height: 90px;
+  width: 290px;
+  text-align:center;
+  margin-left: 50px;
+}
+.anju {
+  border: blue 5px solid;
+  border-radius: 100px 100px 0px 0px;
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  margin-top:30px;
+}
+
+.nju {
+  text-align: center;
+  border: pink 5px solid;
+  border-radius: 30px 30px 30px 30px;
+  height: 100px;
+  width: 200px;
+  margin-top:30px;
+  margin-left: 80px;
+}
